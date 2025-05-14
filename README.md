@@ -1,5 +1,7 @@
 # F1 Race Countdown CLI Tool
 
+![F1 Race Countdown CLI Screenshot](images/example.PNG)
+
 A lightweight Python CLI that counts down in your terminal to the next 2025 F1 Grand Prix using a static race calendar and Rich for styling.
 
 ---
